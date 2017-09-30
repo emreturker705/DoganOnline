@@ -1,0 +1,40 @@
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\NewsProject.Model.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\NewsProject.Model.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\NewsProject.Core.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\EntityFramework.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\Ioc.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\NewsProject.Core.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\EntityFramework.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\Ioc.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\obj\Debug\NewsProject.Model.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\obj\Debug\NewsProject.Model.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\obj\Debug\NewsProject.Model.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\StackExchange.Redis.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\Newtonsoft.Json.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\StackExchange.Redis.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\NewsProject.Model.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\NewsProject.Model.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\NewsProject.Core.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\StackExchange.Redis.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\EntityFramework.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\Ioc.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\NewsProject.Core.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\StackExchange.Redis.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\EntityFramework.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\Ioc.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\obj\Debug\NewsProject.Model.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\obj\Debug\NewsProject.Model.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Model\obj\Debug\NewsProject.Model.pdb

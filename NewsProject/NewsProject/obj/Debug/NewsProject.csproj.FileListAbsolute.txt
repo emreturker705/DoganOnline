@@ -1,0 +1,4 @@
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject\bin\NewsProject.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject\bin\NewsProject.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject\obj\Debug\NewsProject.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject\obj\Debug\NewsProject.pdb

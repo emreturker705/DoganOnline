@@ -1,0 +1,16 @@
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\bin\Debug\EntityFramework.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\bin\Debug\EntityFramework.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\bin\Debug\NewsProject.Data.EntityFramework.dll.config
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\bin\Debug\NewsProject.Data.EntityFramework.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\bin\Debug\NewsProject.Data.EntityFramework.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\obj\Debug\NewsProject.Data.EntityFramework.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\obj\Debug\NewsProject.Data.EntityFramework.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\obj\Debug\NewsProject.Data.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Entity\bin\Debug\NewsProject.Data.EntityFramework.dll.config
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Entity\bin\Debug\NewsProject.Data.EntityFramework.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Entity\bin\Debug\NewsProject.Data.EntityFramework.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Entity\obj\Debug\NewsProject.Data.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Entity\obj\Debug\NewsProject.Data.EntityFramework.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Entity\obj\Debug\NewsProject.Data.EntityFramework.pdb

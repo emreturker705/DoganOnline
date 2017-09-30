@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model List<NewsProject.Model.ViewModel.NewsViewModel>
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+    
+        </div>
+    </section>
+}
+
+<ol class="round">
+    @foreach (var item in Model)
+    {
+        <li class="one">
+        <h5>@item.Title</h5>
+    </li>
+    }
+    
+</ol>
+
+

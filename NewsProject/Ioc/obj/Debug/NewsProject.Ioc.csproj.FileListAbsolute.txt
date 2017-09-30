@@ -1,0 +1,27 @@
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\bin\Debug\Ioc.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\bin\Debug\Ioc.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\obj\Debug\Ioc.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\Ioc\obj\Debug\Ioc.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\bin\Debug\Ioc.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\bin\Debug\Ioc.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\obj\Debug\NewsProject.Ioc.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\obj\Debug\Ioc.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\Ioc\obj\Debug\Ioc.pdb

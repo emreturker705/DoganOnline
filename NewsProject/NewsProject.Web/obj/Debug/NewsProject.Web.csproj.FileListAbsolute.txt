@@ -1,0 +1,108 @@
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Web.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Web.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Antlr3.Runtime.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\EntityFramework.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Newtonsoft.Json.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Net.Http.Formatting.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.Http.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.Http.WebHost.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.Mvc.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.Optimization.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.Providers.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.Razor.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.WebPages.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\WebGrease.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\EntityFramework.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Newtonsoft.Json.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Net.Http.Formatting.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.Http.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.Http.WebHost.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.Mvc.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.Razor.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.WebPages.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\obj\Debug\NewsProject.Web.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\obj\Debug\NewsProject.Web.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\obj\Debug\NewsProject.Web.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Business.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Model.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Ioc.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Converter.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Repository.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Microsoft.Practices.Unity.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Data.EntityFramework.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Core.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Microsoft.Practices.ServiceLocation.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Business.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Model.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Ioc.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Converter.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Repository.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Microsoft.Practices.Unity.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Data.EntityFramework.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\NewsProject.Core.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\Microsoft.Practices.ServiceLocation.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\EntityFramework.SqlServer.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\EntityFramework.SqlServer.xml
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\StackExchange.Redis.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Web\bin\StackExchange.Redis.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Web.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Web.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Antlr3.Runtime.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\EntityFramework.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Ioc.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Business.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Core.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Data.EntityFramework.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Model.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Repository.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Newtonsoft.Json.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.Http.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.Mvc.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.Optimization.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.Providers.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.Razor.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.WebPages.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\WebGrease.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Microsoft.Practices.Unity.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Converter.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\StackExchange.Redis.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Ioc.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Business.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Core.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Data.EntityFramework.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Model.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Repository.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\EntityFramework.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Newtonsoft.Json.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.Http.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.Mvc.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.Razor.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.WebPages.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Microsoft.Practices.Unity.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\NewsProject.Converter.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\StackExchange.Redis.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\obj\Debug\NewsProject.Web.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\obj\Debug\NewsProject.Web.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Web\obj\Debug\NewsProject.Web.pdb

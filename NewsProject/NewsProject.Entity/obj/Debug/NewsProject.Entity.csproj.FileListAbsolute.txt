@@ -1,0 +1,4 @@
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\bin\Debug\NewsProject.Entity.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\bin\Debug\NewsProject.Entity.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\obj\Debug\NewsProject.Entity.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Entity\obj\Debug\NewsProject.Entity.pdb

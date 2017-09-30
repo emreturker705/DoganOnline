@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Data.Dapper\bin\Debug\NewsProject.Data.Dapper.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Data.Dapper\bin\Debug\NewsProject.Data.Dapper.pdb
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Data.Dapper\obj\Debug\NewsProject.Data.Dapper.dll
+c:\users\emre\documents\visual studio 2012\Projects\NewsProject\NewsProject.Data.Dapper\obj\Debug\NewsProject.Data.Dapper.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Data.Dapper\bin\Debug\NewsProject.Data.Dapper.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Data.Dapper\bin\Debug\NewsProject.Data.Dapper.pdb
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Data.Dapper\obj\Debug\NewsProject.Data.Dapper.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Data.Dapper\obj\Debug\NewsProject.Data.Dapper.dll
+C:\Users\Emre\Desktop\DoganOnlineProje\NewsProject\NewsProject.Data.Dapper\obj\Debug\NewsProject.Data.Dapper.pdb
